@@ -1,16 +1,16 @@
 {
-  "posts":[
+  "products": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "title": "sas",
+      "price": "12",
+      "shoeNumbering": "34",
+      "description": "calçado bonito",
+      "link": "http://www.google.com",
+      "imagesSlide": [
+        "https://i.imgur.com/wizTzL1.jpg",
+        "https://i.imgur.com/wizTzL1.jpg"
+      ],
+      "id": 7
     }
   ]
 }
