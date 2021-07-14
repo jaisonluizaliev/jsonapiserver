@@ -1,15 +1,12 @@
 {
   "products": [
     {
-      "title": "sas",
-      "price": 0,
-      "shoeNumbering": [],
-      "description": "calçado bonito",
+      "title": "Sapatilha",
+      "price": 100,
+      "shoeNumbering": "",
+      "description": "",
       "link": "http://www.google.com",
-      "imagesSlide": [
-        "https://i.imgur.com/wizTzL1.jpg",
-        "https://i.imgur.com/wizTzL1.jpg"
-      ],
+      "imagesSlide": "https://i.imgur.com/wizTzL1.jpg",
       "id": 1
     }
   ]
