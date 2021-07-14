@@ -2,15 +2,15 @@
   "products": [
     {
       "title": "sas",
-      "price": "12",
-      "shoeNumbering": "34",
+      "price": 0,
+      "shoeNumbering": [],
       "description": "calçado bonito",
       "link": "http://www.google.com",
       "imagesSlide": [
         "https://i.imgur.com/wizTzL1.jpg",
         "https://i.imgur.com/wizTzL1.jpg"
       ],
-      "id": 7
+      "id": 1
     }
   ]
 }
