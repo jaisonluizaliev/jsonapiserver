@@ -5,7 +5,7 @@ const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3001;
 
 server.use(function (req, res, next) {
-  setTimeout(next, 2000);
+  setTimeout(next, 1200);
 });
 
 server.use(middlewares);
