@@ -3,7 +3,7 @@
     {
       "title": "scarpin preto",
       "price": "69",
-      "shoeNumbering": "39",
+      "shoeNumbering": "36 39",
       "description": "Scarpin com um maravilhoso acabamento em verniz, sola confort, salto fino 8cm",
       "link": "https://bit.ly/Sabrina-Alieviscalcados",
       "imagesSlide": "https://amartcalcados.com.br/wp-content/uploads/2019/06/IMG_0066-300x300.jpg",
@@ -37,13 +37,85 @@
       "id": 4
     },
     {
-      "title": "Sandália ",
+      "title": "Sandália Bloco Verniz",
       "price": "069",
       "shoeNumbering": "39",
       "description": "Sandália com um belo acabamento na cor branca em verniz, sola confort, salto bloco 8cm",
       "link": "https://bit.ly/Sabrina-Alieviscalcados",
       "imagesSlide": "https://amartcalcados.com.br/wp-content/uploads/2020/08/IMG_0121-600x600.jpg",
       "id": 5
+    },
+    {
+      "title": "Scarpin Vinho",
+      "price": "69.90",
+      "shoeNumbering": "39",
+      "description": "Scarpin com um maravilhoso acabamento em verniz, sola confort, salto fino 8cm",
+      "link": "https://bit.ly/Sabrina-Alieviscalcados",
+      "imagesSlide": "https://amartcalcados.com.br/wp-content/uploads/2020/02/IMG_0165-600x600.jpg",
+      "id": 6
+    },
+    {
+      "title": "Sandália Salto Fino",
+      "price": "59.90",
+      "shoeNumbering": "35 39",
+      "description": "Linda Sandália em Verniz Salto fino de 8cm",
+      "link": "https://bit.ly/Sabrina-Alieviscalcados",
+      "imagesSlide": "https://amartcalcados.com.br/wp-content/uploads/2019/10/IMG_0031-600x600.jpg",
+      "id": 7
+    },
+    {
+      "title": "Sandalia Nude Salto Fino",
+      "price": "59.90",
+      "shoeNumbering": "35 37",
+      "description": "Linda Sandália Nude no salto de 8cm, agulha, verniz e sola confortável",
+      "link": "https://bit.ly/Sabrina-Alieviscalcados",
+      "imagesSlide": "https://amartcalcados.com.br/wp-content/uploads/2019/10/IMG_0030-600x600.jpg",
+      "id": 8
+    },
+    {
+      "title": "Sandália Nó e Cordas Nude e Rose",
+      "price": "55.90",
+      "shoeNumbering": "38",
+      "description": "Sandália Com detalhes em napa e verniz, solado confort",
+      "link": "https://bit.ly/Sabrina-Alieviscalcados",
+      "imagesSlide": "https://amartcalcados.com.br/wp-content/uploads/2019/09/IMG_0025-600x600.jpg",
+      "id": 9
+    },
+    {
+      "title": "Sandalia no e cordas Marrom ",
+      "price": "55.90",
+      "shoeNumbering": "36  38  39",
+      "description": "Sandália Com detalhes em napa e verniz, solado confort",
+      "link": "https://bit.ly/Sabrina-Alieviscalcados",
+      "imagesSlide": "https://amartcalcados.com.br/wp-content/uploads/2019/09/IMG_0004-600x600.jpg",
+      "id": 10
+    },
+    {
+      "title": "PeepToe Preto",
+      "price": "59.90",
+      "shoeNumbering": "34",
+      "description": "Lindo Peeptoe baxinho com 4cm, solado confort, acabamento em verniz",
+      "link": "https://bit.ly/Sabrina-Alieviscalcados",
+      "imagesSlide": "https://amartcalcados.com.br/wp-content/uploads/2019/06/IMG_0070-300x300.jpg",
+      "id": 11
+    },
+    {
+      "title": "Rasteirinha",
+      "price": "35.90",
+      "shoeNumbering": " 39",
+      "description": "",
+      "link": "https://bit.ly/Sabrina-Alieviscalcados",
+      "imagesSlide": "https://amartcalcados.com.br/wp-content/uploads/2020/09/IMG_7488-600x600.jpg",
+      "id": 12
+    },
+    {
+      "title": "rasterinha",
+      "price": "35.90",
+      "shoeNumbering": "37",
+      "description": "",
+      "link": "https://bit.ly/Sabrina-Alieviscalcados",
+      "imagesSlide": "https://amartcalcados.com.br/wp-content/uploads/2020/09/IMG_7487-600x600.jpg",
+      "id": 13
     }
   ]
 }
