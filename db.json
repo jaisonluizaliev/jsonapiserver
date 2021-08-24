@@ -1,5 +1,6 @@
 {
   "products": 
+  
   [
     {
       "title": "scarpin preto",
@@ -261,6 +262,24 @@
       "link": "https://bit.ly/Sabrina-Alieviscalcados",
       "imagesSlide": "https://i.imgur.com/1IYPVW1.jpg",
       "id": 29
+    },
+    {
+      "title": "Tênis Blogueira",
+      "price": "99.90",
+      "shoeNumbering": "40",
+      "description": "tenis lindo mega confortavel",
+      "link": "https://bit.ly/Sabrina-Alieviscalcados",
+      "imagesSlide": "https://i.imgur.com/WCDeRw2.jpg",
+      "id": 30
+    },
+    {
+      "title": "Tenis Blogueira",
+      "price": "99.90",
+      "shoeNumbering": "37",
+      "description": "tenis lindo mega confortavel",
+      "link": "https://bit.ly/Sabrina-Alieviscalcados",
+      "imagesSlide": "https://i.imgur.com/6NmmCba.jpg",
+      "id": 31
     }
   ]
  
