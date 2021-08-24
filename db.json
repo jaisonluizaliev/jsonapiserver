@@ -21,7 +21,7 @@
       "id": 2
     },
     {
-      "title": "Scarpin White",
+      "title": "Scarpin branco",
       "price": "069",
       "shoeNumbering": "38",
       "description": "Scarpin com um maravilhoso acabamento em verniz, sola confort, salto fino 8cm",
@@ -39,7 +39,7 @@
       "id": 4
     },
     {
-      "title": "Sandália Bloco Verniz",
+      "title": "Sandália branca Bloco Verniz",
       "price": "069",
       "shoeNumbering": "39",
       "description": "Sandália com um belo acabamento na cor branca em verniz, sola confort, salto bloco 8cm",
@@ -105,7 +105,7 @@
       "title": "Rasterinha",
       "price": "35.90",
       "shoeNumbering": " 39",
-      "description": "",
+      "description": "Linda Rasterinha Solado Confort",
       "link": "https://bit.ly/Sabrina-Alieviscalcados",
       "imagesSlide": "https://amartcalcados.com.br/wp-content/uploads/2020/09/IMG_7488-600x600.jpg",
       "id": 12
@@ -114,7 +114,7 @@
       "title": "rasterinha",
       "price": "35.90",
       "shoeNumbering": "37",
-      "description": "",
+      "description": "Linda Rasterinha Solado Confort",
       "link": "https://bit.ly/Sabrina-Alieviscalcados",
       "imagesSlide": "https://amartcalcados.com.br/wp-content/uploads/2020/09/IMG_7487-600x600.jpg",
       "id": 13
@@ -123,7 +123,7 @@
       "title": "Sandália nude em bloco",
       "price": "59.90",
       "shoeNumbering": "37",
-      "description": "",
+      "description": "Sandália nude com solado confort, salto bloco de 4cm",
       "link": "https://bit.ly/Sabrina-Alieviscalcados",
       "imagesSlide": "https://amarylliscalcados.com.br/wp-content/uploads/2020/09/IMG_0011-300x300.jpg",
       "id": 14
@@ -172,6 +172,42 @@
       "link": "https://bit.ly/Sabrina-Alieviscalcados",
       "imagesSlide": "https://alieviscalcados.vercel.app/_next/image?url=%2Frasteira-azul.jpg&w=640&q=75",
       "id": 19
+    },
+    {
+      "title": "Sandalia Verde Agua",
+      "price": "65.99",
+      "shoeNumbering": "35 37 38",
+      "description": "Linda sandalia, solado confort, salto 4cm",
+      "link": "https://bit.ly/Sabrina-Alieviscalcados",
+      "imagesSlide": "https://i.imgur.com/mw0Gvjv.jpg",
+      "id": 20
+    },
+    {
+      "title": "Sandalia Salmão",
+      "price": "65.90",
+      "shoeNumbering": "34",
+      "description": "Linda sandalia, solado confort, salto 4cm",
+      "link": "https://bit.ly/Sabrina-Alieviscalcados",
+      "imagesSlide": "https://i.imgur.com/VPKcd1w.jpg",
+      "id": 21
+    },
+    {
+      "title": "Scarpin Fosco Salto 4cm",
+      "price": "65.90",
+      "shoeNumbering": "33 40",
+      "description": "Lindo scarpin, solado confort, salto 4cm",
+      "link": "https://bit.ly/Sabrina-Alieviscalcados",
+      "imagesSlide": "https://scontent.ffln6-1.fna.fbcdn.net/v/t1.6435-9/162576383_2399846410158825_4576621471131498035_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeFs8matntUDltHqlxxlQtm6gsY-YCVlFOiCxj5gJWUU6PTFnw2wHltbhIPPTjbDorsr97x9C8C9Ta5CCN9L16fe&_nc_ohc=zRGa3WaUI4MAX9wwG4n&_nc_ht=scontent.ffln6-1.fna&oh=d4277293664d8aecaba9328252e3d60d&oe=614A9912",
+      "id": 22
+    },
+    {
+      "title": "Sandalia Ouro",
+      "price": "65.90",
+      "shoeNumbering": "36",
+      "description": "Linda sandalia, solado confort, salto 4cm",
+      "link": "https://bit.ly/Sabrina-Alieviscalcados",
+      "imagesSlide": "https://scontent.ffln6-1.fna.fbcdn.net/v/t1.6435-9/139854176_2348054068671393_7168225630336925890_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeGm7loLpufWNSdKpJRPK6e7xJjmr2fLeCbEmOavZ8t4JuQpKl_oqiW14Xz2yjSDCtWEcaoN1avyO0lOkeHFBahW&_nc_ohc=M-c9DlwIeTEAX8UnzFw&_nc_ht=scontent.ffln6-1.fna&oh=980ecb2da7f1624c2533132509f55d45&oe=6148DAB9",
+      "id": 23
     }
   ]
 }
