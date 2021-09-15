@@ -4,9 +4,9 @@ const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3001;
 
-server.use(function (req, res, next) {
-  setTimeout(next, 500);
-});
+// server.use(function (req, res, next) {
+//   setTimeout(next, 500);
+// });
 
 server.use(middlewares);
 server.use(router);
