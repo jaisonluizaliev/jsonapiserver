@@ -131,21 +131,13 @@
     {
       "title": "Sapatilha Fend Gelo",
       "price": "29.90",
-      "shoeNumbering": "35 36",
+      "shoeNumbering": "35",
       "description": "Sapatilha linha Confort, salto 1cm",
       "link": "https://bit.ly/Sabrina-Alieviscalcados",
       "imagesSlide": "https://alieviscalcados.vercel.app/_next/image?url=%2Fsapatilha-gelo-fend.jpg&w=640&q=75",
       "id": 15
     },
-    {
-      "title": "Sapatilha Croco Nude",
-      "price": "29.90",
-      "shoeNumbering": "36",
-      "description": "Sapatilha linha Confort, salto 1cm",
-      "link": "https://bit.ly/Sabrina-Alieviscalcados",
-      "imagesSlide": "https://alieviscalcados.vercel.app/_next/image?url=%2Fsapatilhas-home.jpg&w=640&q=75",
-      "id": 16
-    },
+    
     {
       "title": "Sapatilha Salome Azul",
       "price": "35.90",
@@ -209,60 +201,19 @@
       "imagesSlide": "https://i.imgur.com/MPYY91I.jpg",
       "id": 23
     },
-    {
-      "title": "Sapatilha Sanfona",
-      "price": "34.90",
-      "shoeNumbering": "37",
-      "description": "Solado Confort, proteção de calcanhar",
-      "link": "https://bit.ly/Sabrina-Alieviscalcados",
-      "imagesSlide": "https://i.imgur.com/QvcYUl0.jpg",
-      "id": 24
-    },
-    {
-      "title": "Sapatilha tricolor",
-      "price": "34.90",
-      "shoeNumbering": "37",
-      "description": "Sapatilha linha Confort, salto 1cm, proteção de calcanhar",
-      "link": "https://bit.ly/Sabrina-Alieviscalcados",
-      "imagesSlide": "https://i.imgur.com/k7ZYXD4.jpg",
-      "id": 25
-    },
-    {
-      "title": "Sapatilha laço infinito",
-      "price": "34.90",
-      "shoeNumbering": "38",
-      "description": "Sapatilha linha Confort, salto 1cm, proteção de calcanhar",
-      "link": "https://bit.ly/Sabrina-Alieviscalcados",
-      "imagesSlide": "https://i.imgur.com/Mpxj0uq.jpg",
-      "id": 26
-    },
-    {
-      "title": "Sapatilha Tricolor Verde",
-      "price": "34.90",
-      "shoeNumbering": "36 37",
-      "description": "Sapatilha linha Confort, salto 1cm, proteção de calcanhar",
-      "link": "https://bit.ly/Sabrina-Alieviscalcados",
-      "imagesSlide": "https://i.imgur.com/9qf99bM.jpg",
-      "id": 27
-    },
+    
+    
+    
     {
       "title": "Sapatilha Coração Metal",
       "price": "34.90",
-      "shoeNumbering": "36 37",
+      "shoeNumbering": "36",
       "description": "Sapatilha linha Confort, salto 1cm, proteção de calcanhar",
       "link": "https://bit.ly/Sabrina-Alieviscalcados",
       "imagesSlide": "https://i.imgur.com/WL3eGm6.jpg",
       "id": 28
     },
-    {
-      "title": "Sapatilha Azul marinho",
-      "price": "34.90",
-      "shoeNumbering": "37",
-      "description": "Sapatilha linha Confort, salto 1cm, proteção de calcanhar",
-      "link": "https://bit.ly/Sabrina-Alieviscalcados",
-      "imagesSlide": "https://i.imgur.com/1IYPVW1.jpg",
-      "id": 29
-    },
+    
     {
       "title": "Tênis Blogueira",
       "price": "99.90",
